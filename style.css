@@ -3,3 +3,8 @@ background: #0000;
 text-align:center;
 margin:0;
 }
+header{
+    background-color: blueviolet;
+    color: aqua;
+    padding: 25px;
+}
